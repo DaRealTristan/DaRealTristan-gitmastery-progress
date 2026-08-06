@@ -25,5 +25,18 @@
       "You have successfully undone the init operation!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786049652.718211,
+    "completed_at": 1786049657.384233,
+    "comments": [
+      "Did not add carrey.txt",
+      "Did not add joe.txt",
+      "Did not add bob.txt",
+      "Did not add jim.txt",
+      "Did not add alice.txt"
+    ],
+    "status": "Incomplete"
   }
 ]
