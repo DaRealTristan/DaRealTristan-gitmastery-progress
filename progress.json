@@ -38,5 +38,14 @@
       "Did not add alice.txt"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786049678.741173,
+    "completed_at": 1786049680.64846,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
   }
 ]
